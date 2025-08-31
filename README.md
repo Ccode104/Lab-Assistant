@@ -190,10 +190,3 @@ We’ve built a simple **Agentic AI Lab Assistant**:
 * Generating viva questions around debugging.
 * Building a multi-agent setup (e.g., *Code Analyzer* + *Question Generator*).
 
-
----
-
-✅ Now your tutorial is **interleaved** with the Lab Assistant project: every theory point is demonstrated with **actual CrewAI code** from your notebook.  
-
-Do you want me to also generate a **Python script to draw the flowcharts (with graphviz/matplotlib)** so you can include images instead of mermaid diagrams in Jupyter?
-```
